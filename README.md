@@ -5,3 +5,11 @@ This success has led Waggle’s CEO to push for a feline version but there are c
 # Data Model
 Below is a snapshot of data model used in this project
 ![Data Model](https://github.com/KEVIN-VN642/Power-BI_Product-Analysis/blob/master/Data%20Model.png)
+
+# Summary Results
+### 1. Comparing two products Lapcat and Lapdog
+![Lapcat vs Lapdog](https://github.com/KEVIN-VN642/Power-BI_Product-Analysis/blob/master/Lapcat%20Vs%20Lapdog.png)
+### 2. Product Insights
+![Pet Insights](https://github.com/KEVIN-VN642/Power-BI_Product-Analysis/blob/master/Pet%20Insights.png)
+### 3. Family Insights
+![Family Insights](https://github.com/KEVIN-VN642/Power-BI_Product-Analysis/blob/master/Family%20Insights.png)
